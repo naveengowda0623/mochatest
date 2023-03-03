@@ -12,6 +12,6 @@
   "author": "Naveen Gowda",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^6.2.3"
   }
 }
